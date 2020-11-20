@@ -1,5 +1,6 @@
 const { Genre } = require("./models/genre");
 const { Movie } = require("./models/movie");
+const { Users } = require("./models/user");
 const mongoose = require("mongoose");
 const config = require("config");
 
